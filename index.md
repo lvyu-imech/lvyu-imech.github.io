@@ -17,9 +17,9 @@
 
 ---
 
-### Category Name 2
+### 代表论文
 
-- [Project 1 Title](http://example.com/)
+- [Lv, Yu, et al. "A discontinuous Galerkin method for wall-modeled large-eddy simulations." Computers & Fluids 222 (2021): 104933.](https://www.sciencedirect.com/science/article/pii/S0045793021000992?casa_token=DjmfFReh9A8AAAAA:lyKeBsXdSIiMZ2eiYbSPaltdvrpTPAgB55QoRZyHdrHS5ttX0MqQXpGrAnx6Bd-xe5ioZggPlQ)
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
