@@ -2,7 +2,7 @@
 
 ---
 [面向复杂流动的高阶精度数值格式 high-order numerical methods](/sample_page)
-<img src="images/achievement_numercs.png?raw=true"/>
+<img src="images/achievement_numerics.jpg?raw=true"/>
 
 ---
 [湍流反应流的高置信度模型与仿真技术 high-fidelity modeling of turbulent reacting flows](/pdf/lv_homepage_combustion.pdf)
