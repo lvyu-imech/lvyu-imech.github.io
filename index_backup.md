@@ -1,7 +1,10 @@
 ## 研究方向
 
 ---
-[面向复杂流动的高阶精度数值格式 high-order numerical methods](/sample_page)
+
+### Category Name 1 
+
+[面向复杂流动的高阶间断格式  high-order discontinuous schemes](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
