@@ -10,7 +10,7 @@
 
 ---
 [壁面模化大涡模拟方法  wall-modeled LES](/pdf/lv_homepage_wmles.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/test3.svg?raw=true"/>
 
 ---
 
