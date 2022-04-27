@@ -1,7 +1,7 @@
 ## 研究方向 Research directions
 
 ---
-[面向复杂流动的高阶精度数值格式 high-order numerical methods](/sample_page)
+[面向复杂流动的高阶精度数值格式 high-order numerical methods](/pdf/lv_homepage_numerics.pdf)
 <img src="images/test1.svg?raw=true"/>
 
 ---
@@ -27,7 +27,7 @@
 
 ### 科研动态
 
-- 2022/4/22, 受邀为港科大机械与航空系做线上[学术报告](https://mae.hkust.edu.hk/en/news-events/events/2022/20220422-mech6090-lv-yu)
+- 2022/4/22, 受邀为港科大机械与航空系作线上[学术报告](https://mae.hkust.edu.hk/en/news-events/events/2022/20220422-mech6090-lv-yu)
 - 2022/4, 关于[火焰响应函数的精准模型研究](/pdf/39_symposium_notice.pdf)被第39届国际燃烧大会录用
 
 
