@@ -14,7 +14,7 @@
 
 ---
 
-### 代表论文
+### 代表论文 Selected publications
 
 - [Lv, Yu, et al. "A discontinuous Galerkin method for wall-modeled large-eddy simulations." Computers & Fluids 222 (2021): 104933.](https://www.sciencedirect.com/science/article/pii/S0045793021000992?casa_token=DjmfFReh9A8AAAAA:lyKeBsXdSIiMZ2eiYbSPaltdvrpTPAgB55QoRZyHdrHS5ttX0MqQXpGrAnx6Bd-xe5ioZggPlQ)
 - [Ching, Eric J., Lv, Yu, et al. "Shock capturing for discontinuous Galerkin methods with application to predicting heat transfer in hypersonic flows." Journal of Computational Physics 376 (2019): 54-75.](https://www.sciencedirect.com/science/article/pii/S0021999118306107?casa_token=r1EdTntOJdUAAAAA:CbiBLcUogrd5uJecFHqHvfOMLcBqvxnMoJC6sjgRlXQUZtizOEUKBeFU-uX4VC890xyMH9Lg7A)
@@ -25,7 +25,7 @@
 
 ---
 
-### 科研动态
+### 科研动态 News
 
 - 2022/4/22, 受邀为港科大机械与航空系作线上[学术报告](https://mae.hkust.edu.hk/en/news-events/events/2022/20220422-mech6090-lv-yu)
 - 2022/4, 关于[火焰响应函数的精准模型研究](/pdf/39_symposium_notice.pdf)被第39届国际燃烧大会录用
