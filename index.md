@@ -2,7 +2,7 @@
 
 ---
 [面向复杂流动的高阶精度数值格式 high-order numerical methods](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/achievement_numercs.png?raw=true"/>
 
 ---
 [湍流反应流的高置信度模型与仿真技术 high-fidelity modeling of turbulent reacting flows](/pdf/lv_homepage_combustion.pdf)
@@ -27,7 +27,7 @@
 
 ### 科研动态
 
-- 关于火焰响应函数的精准模型研究被第39届国际燃烧大会录用((/pdf/39_symposium_notice.pdf))
+- 关于[火焰响应函数的精准模型研究](/pdf/39_symposium_notice.pdf)被第39届国际燃烧大会录用
 
 
 ---
