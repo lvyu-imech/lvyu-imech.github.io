@@ -1,15 +1,15 @@
-## 研究方向 Research direction
+## 研究方向 Research directions
 
 ---
 [面向复杂流动的高阶精度数值格式 high-order numerical methods](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[湍流反应流的高置信度模型与仿真技术 high-fidelity modeling of turbulent reacting flows](/pdf/sample_presentation.pdf)
+[湍流反应流的高置信度模型与仿真技术 high-fidelity modeling of turbulent reacting flows](/pdf/lv_homepage_combustion.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[壁面模化大涡模拟技术  wall-modeled LES](http://example.com/)
+[壁面模化大涡模拟方法  wall-modeled LES](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
@@ -25,11 +25,9 @@
 
 ---
 
-<style>
-  .footer {
-    display: none;
-  }
-</style>
+### 科研动态
+
+- 关于火焰响应函数的精准模型研究被第39届国际燃烧大会录用((/pdf/39_symposium_notice.pdf))
 
 
 ---
