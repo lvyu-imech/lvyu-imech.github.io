@@ -6,10 +6,10 @@
 
 ---
 [湍流反应流的高置信度模型与仿真技术 high-fidelity modeling of turbulent reacting flows](/pdf/lv_homepage_combustion.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/test2.svg?raw=true"/>
 
 ---
-[壁面模化大涡模拟方法  wall-modeled LES](http://example.com/)
+[壁面模化大涡模拟方法  wall-modeled LES](/pdf/lv_homepage_wmles.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
