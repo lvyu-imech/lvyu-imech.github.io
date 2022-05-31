@@ -27,6 +27,7 @@
 
 ### 科研动态 News
 
+- 2022/5/27, 受邀为北航宇航学院作线上[学术报告](https://mp.weixin.qq.com/s/9tyWmyp9UFODEk3WN-CSxg)
 - 2022/4/22, 受邀为港科大机械与航空系作线上[学术报告](https://mae.hkust.edu.hk/en/news-events/events/2022/20220422-mech6090-lv-yu)
 - 2022/4, 关于[火焰响应函数的精准模型研究](/pdf/39_symposium_notice.pdf)被第39届国际燃烧大会录用
 
