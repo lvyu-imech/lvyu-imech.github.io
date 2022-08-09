@@ -14,6 +14,18 @@
 
 ---
 
+
+### 科研动态 News
+
+- 2022/8, Zheng's paper is accepted for publication in PROCI; the presentation video can be found [here](https://www.bilibili.com/video/BV1Xd4y1T7BY?spm_id_from=333.999.0.0)
+- 2022/5/27, 受邀为北航宇航学院作线上[学术报告](https://mp.weixin.qq.com/s/9tyWmyp9UFODEk3WN-CSxg)
+- 2022/4/22, 受邀为港科大机械与航空系作线上[学术报告](https://mae.hkust.edu.hk/en/news-events/events/2022/20220422-mech6090-lv-yu)
+- 2022/4, 关于[火焰响应函数的精准模型研究](/pdf/39_symposium_notice.pdf)被第39届国际燃烧大会录用
+
+
+---
+
+
 ### 代表论文 Selected publications
 
 - [Lv, Yu, et al. "A discontinuous Galerkin method for wall-modeled large-eddy simulations." Computers & Fluids 222 (2021): 104933.](https://www.sciencedirect.com/science/article/pii/S0045793021000992?casa_token=DjmfFReh9A8AAAAA:lyKeBsXdSIiMZ2eiYbSPaltdvrpTPAgB55QoRZyHdrHS5ttX0MqQXpGrAnx6Bd-xe5ioZggPlQ)
@@ -22,15 +34,6 @@
 - [Lv, Yu, and Matthias Ihme. "Entropy-bounded discontinuous Galerkin scheme for Euler equations." Journal of Computational Physics 295 (2015): 715-739.](https://www.sciencedirect.com/science/article/pii/S002199911500282X?casa_token=p39XxJMMsisAAAAA:eVJk1g0927msqFzzMPXPiyQep1QZkdmoRPWu2DrFqot4-9m5K8eHDfN4_XzpbIO6TpTZmDzcRA)
 - [Lv, Yu, and Matthias Ihme. "Discontinuous Galerkin method for multicomponent chemically reacting flows and combustion." Journal of Computational Physics 270 (2014): 105-137.](https://www.sciencedirect.com/science/article/pii/S0021999114002101?casa_token=c8E71Ki5EjkAAAAA:Ta6M3zO8b8pwGPciI9-othDRROQOF1H36IIRS8USNoUNQxDi8nvPYUX5q9SfW2lmunmwVhZO0g)
 
-
----
-
-### 科研动态 News
-
-- 2022/8, Zheng's paper is accepted for publication in PROCI; the presentation video can be found [here](https://www.bilibili.com/video/BV1Xd4y1T7BY?spm_id_from=333.999.0.0)
-- 2022/5/27, 受邀为北航宇航学院作线上[学术报告](https://mp.weixin.qq.com/s/9tyWmyp9UFODEk3WN-CSxg)
-- 2022/4/22, 受邀为港科大机械与航空系作线上[学术报告](https://mae.hkust.edu.hk/en/news-events/events/2022/20220422-mech6090-lv-yu)
-- 2022/4, 关于[火焰响应函数的精准模型研究](/pdf/39_symposium_notice.pdf)被第39届国际燃烧大会录用
 
 
 ---
