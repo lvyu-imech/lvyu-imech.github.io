@@ -1,5 +1,6 @@
 ## 科研动态 News
 
+- 2022/10, 陈与同学论文关于亚临界压下GH2/LOX火焰的[研究](https://authors.elsevier.com/a/1fwAp1HxM4zNwT)在国际氢能杂志发表，该研究考虑了火焰在两相界面上的传热传质效应，建立火焰特征量对压力和应变率的标度率并从燃烧机制上证实了液氧蒸发不是制约两相燃烧的因素。
 - 2022/8, Zheng's paper is accepted for publication in PROCI; the presentation video can be found [here](https://www.bilibili.com/video/BV1Xd4y1T7BY?spm_id_from=333.999.0.0)
 - 2022/5/27, 受邀为北航宇航学院作线上[学术报告](https://mp.weixin.qq.com/s/9tyWmyp9UFODEk3WN-CSxg)
 - 2022/4/22, 受邀为港科大机械与航空系作线上[学术报告](https://mae.hkust.edu.hk/en/news-events/events/2022/20220422-mech6090-lv-yu)
@@ -24,7 +25,7 @@
 
 ---
 
-### 代表论文 Selected publications
+## 代表论文 Selected publications
 
 - [Lv, Yu, et al. "A discontinuous Galerkin method for wall-modeled large-eddy simulations." Computers & Fluids 222 (2021): 104933.](https://www.sciencedirect.com/science/article/pii/S0045793021000992?casa_token=DjmfFReh9A8AAAAA:lyKeBsXdSIiMZ2eiYbSPaltdvrpTPAgB55QoRZyHdrHS5ttX0MqQXpGrAnx6Bd-xe5ioZggPlQ)
 - [Ching, Eric J., Lv, Yu, et al. "Shock capturing for discontinuous Galerkin methods with application to predicting heat transfer in hypersonic flows." Journal of Computational Physics 376 (2019): 54-75.](https://www.sciencedirect.com/science/article/pii/S0021999118306107?casa_token=r1EdTntOJdUAAAAA:CbiBLcUogrd5uJecFHqHvfOMLcBqvxnMoJC6sjgRlXQUZtizOEUKBeFU-uX4VC890xyMH9Lg7A)
