@@ -2,6 +2,7 @@
 
 ---
 
+- 2022/11, 在第12届流体力学会议做邀请报告，题为“翼型大迎角绕流的壁面模化大涡模拟”
 - 2022/10, 陈与同学的工作[关于亚临界压力下GH2/LOX火焰的研究](https://authors.elsevier.com/a/1fwAp1HxM4zNwT)在国际氢能杂志发表，该研究考虑了火焰在两相界面上的传热传质效应，建立了火焰特征量对压力和应变率的标度率并从燃烧机制上证实了液氧蒸发不是制约两相燃烧的因素。
 - 2022/8, Zheng's paper is accepted for publication in PROCI; the presentation video can be found [here](https://www.bilibili.com/video/BV1Xd4y1T7BY?spm_id_from=333.999.0.0)
 - 2022/5/27, 受邀为北航宇航学院作线上[学术报告](https://mp.weixin.qq.com/s/9tyWmyp9UFODEk3WN-CSxg)
