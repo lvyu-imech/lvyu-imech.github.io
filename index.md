@@ -2,6 +2,7 @@
 
 ---
 
+- 2023/6/28, 关于间断数值方法在复杂多物理流动中的研究进展的长篇综述(full-length review)，在航空航天领域综述期刊Prog. Aero. Sci.发表[link](https://authors.elsevier.com/a/1hKJe1LW8XANg5)。For long the discontinuous scheme has been applied mostly to aerodynamic simulations with simple fluid models. However, modern CFD techniques and applications in fact cover a wide spectrum of fluids. Therefore, there is an urgent need to extend the advanced discontinuous schemes into those fluid models. In this review, we specifically focused on the multi-component and multiphase flows of relevance to aerospace applications. The aim is to establish the current status of numerics, algrothmics, models and treatments in the field of discontinuous schemes and provide a ``guidebook'' to the rookie researchers who are interested in this field.
 - 2023/4/3, 港科大傅林教授到访本课题组做学术交流
 <img src="images/linfu_meet_2023_4.jpg?raw=true"/>
 - 2023/2, 在湍流与非线性实验室联合学术年会上做报告，题为“面向空天动力的内流仿真与燃烧建模”
