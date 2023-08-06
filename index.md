@@ -2,6 +2,8 @@
 
 ---
 
+- 2023/8初，赴香科大参加2023湍流噪声和CFD暑期高级研习班并做报告，题为“熵受限高阶间断格式及其在多物理流体仿真中的应用”
+<img src="images/香港研习班2023.jpg?raw=true"/>
 - 2023/6/28, 关于间断数值方法在复杂多物理流动中的研究进展的长篇综述(full-length review)，在航空航天领域综述期刊Prog. Aero. Sci.发表[link](https://authors.elsevier.com/a/1hKJe1LW8XANg5)。<img src="images/pas_journal_preview.jpg?raw=true"/> <small>For long the discontinuous scheme has been applied mostly to aerodynamic simulations with simple fluid models. However, modern CFD techniques and applications in fact cover a wide spectrum of fluids. There is an urgent need to extend the advanced discontinuous schemes into those fluid models. In this review, we specifically focused on the multi-component and multiphase flows of relevance to aerospace applications. The aim is to identify the current status of numerics, algrothmics and models in the field of discontinuous schemes and to provide a guidebook to "rookie" researchers who are interested in this field.<small>
 - 2023/4/3, 港科大傅林教授到访本课题组做学术交流
 <img src="images/linfu_meet_2023_4.jpg?raw=true"/>
