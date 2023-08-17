@@ -1,7 +1,8 @@
 ## 科研动态 News
 
 ---
-
+- 2023/8/16, Prof. Ekaterinaris到访力学所并做学术报告
+<img src="images/john_photo1.jpg?raw=true"/>
 - 2023/8, 博士后乔正关于大涡模拟在复杂燃烧器仿真中的性能评估的文章在Phys. Fluids发表[link](https://pubs.aip.org/aip/pof/article/35/8/085120/2906392/On-the-robustness-and-accuracy-of-large-eddy)-[PDF](/pdf/POF23-AR-03761.pdf)
 <img src="images/gtmc_burner_highlight.jpg?raw=true"/>
 - 2023/8初，赴香港科大参加2023湍流噪声和CFD暑期高级研习班并做报告，题为“熵受限高阶间断格式及其在多物理流体仿真中的应用”
