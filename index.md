@@ -1,6 +1,8 @@
 ## 科研动态 News
 
 ---
+- 2023/12, Prof. Xiang Yang到访力学所并做学术报告
+<img src="images/xiang_2023_visit.jpg?raw=true"/>
 - 2023/8/16, Prof. Ekaterinaris到访力学所并做学术报告
 <img src="images/john_photo1.jpg?raw=true"/>
 - 2023/8, 博士后乔正关于大涡模拟在复杂燃烧器仿真中的性能评估的文章在Phys. Fluids发表[link](https://pubs.aip.org/aip/pof/article/35/8/085120/2906392/On-the-robustness-and-accuracy-of-large-eddy)-[PDF](/pdf/POF23-AR-03761.pdf)
