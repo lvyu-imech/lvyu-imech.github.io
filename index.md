@@ -1,6 +1,8 @@
 ## 科研动态 News
 
 ---
+- 2024/8, 博士生陈与参加全国流体力学会议，并做关于航发燃烧器大涡模拟研究的学术报告
+<img src="images/chenyu_fluid_conf2024.jpg?raw=true"/>
 - 2023/12, Prof. Xiang Yang到访力学所并做学术报告
 <img src="images/xiang_2023_visit.jpg?raw=true"/>
 - 2023/8/16, Prof. Ekaterinaris到访力学所并做学术报告
