@@ -1,8 +1,13 @@
 ## 科研动态 News
 
 ---
-- 2024/8, 博士生陈与参加全国流体力学会议，并做关于航发燃烧器大涡模拟研究的学术报告
+- 2024/12, 赴武汉参加计算力学青年学术研讨会, 并做关于熵有界高阶精度间断格式研究的学术报告
+<img src="images/young_scholar_meeting2024_wuhan.jpg?raw=true"/>
+- 2024/9, 关于壁面模化大涡模拟的研究工作, 获国自然面上项目支持
+- 2024/8, 博士生陈与参加全国流体力学会议, 并做关于航发燃烧器大涡模拟研究的学术报告
 <img src="images/chenyu_fluid_conf2024.jpg?raw=true"/>
+- 2024/6,  赴香港参加muPIF国际会议, 并做关于多组分反应流动高效数值模拟方法的学术报告
+<img src="images/muPIF.jpg?raw=true"/>
 - 2023/12, Prof. Xiang Yang到访力学所并做学术报告
 <img src="images/xiang_2023_visit.jpg?raw=true"/>
 - 2023/8/16, Prof. Ekaterinaris到访力学所并做学术报告
